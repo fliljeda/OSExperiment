@@ -1,5 +1,5 @@
-*.ko
-*.o
+*.ko*
+*.o*
 *.mod*
 *.order
 *.symvers
