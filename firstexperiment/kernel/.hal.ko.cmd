@@ -1,0 +1,1 @@
+cmd_/home/fredrik/kth/åk3/os/1experiment/kernel/hal.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/fredrik/kth/åk3/os/1experiment/kernel/hal.ko /home/fredrik/kth/åk3/os/1experiment/kernel/hal.o /home/fredrik/kth/åk3/os/1experiment/kernel/hal.mod.o

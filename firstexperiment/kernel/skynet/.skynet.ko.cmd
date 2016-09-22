@@ -1,0 +1,1 @@
+cmd_/home/fredrik/kth/åk3/os/1experiment/kernel/skynet/skynet.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/fredrik/kth/åk3/os/1experiment/kernel/skynet/skynet.ko /home/fredrik/kth/åk3/os/1experiment/kernel/skynet/skynet.o /home/fredrik/kth/åk3/os/1experiment/kernel/skynet/skynet.mod.o
